@@ -1,0 +1,55 @@
+{
+	"basicdetai":{
+		"image":"ship.jpg",
+		"name":"kaila nikitha",
+		"email":"kailanikitha26@gmail.com", 
+		"phone":"7731077745",
+		"address":"2-149/2,krishna(district)"
+},
+"education":[
+{
+	"course":"Btech(c.s.e)",
+	"college":"vignan nirula institute of technology and science for women",
+	"percentage":"70%"
+},
+{
+	"course":"intermediate(mpc)",
+	"college":"sri chaitanya",
+	"percentage":"85%"
+},
+{
+	"course":"ssc",
+	"school":"komma reddy talent high school",
+	"percentage":"85%" 
+}
+
+],
+"skills":[
+{
+	"name":"operating systems",
+	"value":"windows,linux,MAC"
+},
+{
+	"name":"programming languages",
+     "value":"c,c++,java,python"
+}
+],
+"carrier":{
+	"ca":"iam using my knowledge for developing my organization and I obey the organization rules and take my responsibility end of my working days"
+},
+"Achievements":[
+    "I got frist prize in basketball competition",
+    "I got second prize in quiz competition",
+    "I got third prize in chess competition"
+],
+"Description":{
+	"des":"Iam using my skills for developing web applications"
+}
+}
+
+
+
+
+
+
+
